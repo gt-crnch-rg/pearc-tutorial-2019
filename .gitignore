@@ -1,0 +1,10 @@
+emu/hello-world.*
+!emu/hello-world.ipynb
+!emu/hello-world.pdf
+emu/hello-world-*
+emu/hello-world_*
+emu/.ipynb_checkpoints/
+emu/build
+emu/global_stream.mwx
+emu/*_data
+
